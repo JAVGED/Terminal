@@ -1,0 +1,4 @@
+C:\Users\3a\Desktop\Programing\C#\Terminal\obj\Debug\net8.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3a\Desktop\Programing\C#\Terminal\obj\Debug\net8.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\3a\Desktop\Programing\C#\Terminal\obj\Debug\net8.0\Terminal.AssemblyInfo.cs
+C:\Users\3a\Desktop\Programing\C#\Terminal\obj\Debug\net8.0\Terminal.csproj.CoreCompileInputs.cache
